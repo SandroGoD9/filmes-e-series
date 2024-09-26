@@ -1,0 +1,26 @@
+body { 
+background:linear-gradient(#b805cf, #000) ;
+color: rgb(29, 7, 7);
+margin: 0px;
+}
+
+header {
+border-bottom: solid 2px rgb(92, 200, 20);
+padding: 20px;
+font-size: 32px;
+color: rgb(103, 7, 141);
+}
+
+.chamada {
+background-color: rgb(190, 15, 15);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
+}
+
+h1{font-size: 40px;}
